@@ -64,8 +64,8 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-          "tag": "v0.4.0",
-          "commit": "75a6d95988736ec0471d22ceb07579c0cedac2ad"
+          "tag": "v0.8.1",
+          "commit": "aa7679618e864748f4f4d8f15283906e712752fe"
         }
       ],
       "cleanup": ["*"]
@@ -78,8 +78,8 @@
         {
           "type": "git",
           "url": "https://github.com/CleoMenezesJr/escambo.git",
-          "tag": "0.1.0",
-          "commit": "76cd02e79a61e5a5516432a07c3aeb43fd830571"
+          "tag": "0.1.1",
+          "commit": "ac2cd6d230dfbb68effb90b31e2094f802b4a30a"
         }
       ]
     }
